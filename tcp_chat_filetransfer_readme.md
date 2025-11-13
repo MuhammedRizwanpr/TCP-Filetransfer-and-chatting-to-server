@@ -153,12 +153,10 @@ ifconfig    # on Linux/macOS
 
 📸 *Example: File transferred successfully from Server → Client*
 
-> *(You can place your screenshot here after testing)*\
 > Example:
 
-```
+
 ![File Transfer Example](screenshot/file_transfer.png)
-```
 
 ---
 
