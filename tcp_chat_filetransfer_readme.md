@@ -157,7 +157,7 @@ ifconfig    # on Linux/macOS
 > Example:
 
 ```
-![File Transfer Example](screenshots/file_transfer.png)
+![File Transfer Example](screenshot/file_transfer.png)
 ```
 
 ---
